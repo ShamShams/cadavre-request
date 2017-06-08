@@ -1,1 +1,0 @@
-Il était une fois un groupe de Simploniens qui essayait de comprendre git. Ensemble ils essayent de faire des fork, des commit, des push et des pull, mais c'est assez difficile.
